@@ -25,9 +25,20 @@ h1.title {
   width: 90%;
   margin-left: 5%;
   margin-top: 5px;
+  margin-bottom: 15px;
   height: 3em;
   font-size: 1em;
   text-align: right;
+}
+
+.sing-dollars {
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 15px;
+  height: 3em;
+  font-size: 1em;
+  text-align: left;
+  border: grey 1px solid;
 }
 
 .add-currency-link {
