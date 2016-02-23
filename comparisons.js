@@ -33,6 +33,17 @@
 // They have to be exactly similar to
 // return true
 
+// Finally, we'll also introduce !.
+// ! is a negation, so if == means equals,
+// !== means not equals
+
+5 !== 6; //true
+
+2 !== 2 //false
+
+// However, this ! is slightly less
+// commonly used.
+
 //Exercise Time!
 
 1 + 1 == 2;
@@ -41,7 +52,9 @@
 
 "7" / 7 == 1;
 
-"string " == "string"
+"string " == "string";
+
+"bai nian" !== "bainian";
 
 // Now comes the fun part
 // Introducing AND && and OR ||
