@@ -1,0 +1,65 @@
+body {
+  font-family: 'Open Sans';
+  margin: 0;
+  padding: 0;
+}
+
+h1.title {
+  height: 64px;
+  width: 100%;
+  text-align: center;
+  padding-top: 18px;
+  background-color: teal;
+  font-size: 2em;
+  font-family: 'Sans-Serif', Arial, 'Open Sans';
+  color: white;
+}
+
+.singapore-label {
+  font-weight: bold;
+  font-size: 1em;
+  margin-left: 5%;
+}
+
+.singapore-currency {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  height: 3em;
+  font-size: 1em;
+  text-align: right;
+}
+
+.sing-dollars {
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 15px;
+  height: 3em;
+  font-size: 1em;
+  text-align: left;
+  border: grey 1px solid;
+}
+
+.add-currency-link {
+  /*text-align: center;*/
+  background-color: teal;
+  line-height: 3em;
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  width: 30%;
+  margin-left: 40%;
+}
+
+.convert-button {
+  height: 3em;
+  width: 90%;
+  background-color: teal;
+  font-size: 1em;
+  color: white;
+  border-radius: 5px;
+  margin-left: 5%;
+  border: none;
+}
